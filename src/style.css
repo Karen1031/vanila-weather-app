@@ -1,0 +1,13 @@
+.weather-app {
+max-width: 900px;
+border: 1px solid #c8c9cb;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+
+}
+.open-source {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
