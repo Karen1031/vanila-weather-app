@@ -17,30 +17,33 @@
     <div class="container">
       <div class="weather-app">
         <h1 class="city" id="city">Hesperia</h1>
+
         <ul class="details">
           <li id="date">Monday 22:00, sunny</li>
-          <li>Humidity: 80%, Wind: 5km/h</li>
+          <li>
+            Humidity: <strong class="value">80%</strong>, Wind:
+            <strong class="value">5km/h</strong>
+          </li>
         </ul>
-        <div class="row">
-          <div class="col-6">
+        <div class="img-col-6">
+          <div class="temp-container">
             <img
               class="icon"
               src="https://ssl.gstatic.com/onebox/weather/64/sunny.png"
               alt="clear"
             />
-            12°F
+            <span class="temp">12°F</span>
           </div>
         </div>
       </div>
-      <small class="open-source">
-        <a
-          href="https://github.com/Karen1031/vanila-weather-app"
-          target="_blank"
-          >Open source code</a
-        >
-        by Karen Gonzalez
-      </small>
-      <script src="src/app.js"></script>
     </div>
+
+    <small class="open-source">
+      <a href="https://github.com/Karen1031/vanila-weather-app" target="_blank"
+        >Open source code</a
+      >
+      by Karen Gonzalez
+    </small>
+    <script src="src/app.js"></script>
   </body>
 </html>

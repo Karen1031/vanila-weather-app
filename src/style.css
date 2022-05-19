@@ -3,6 +3,27 @@ body {
 }
 .details {
   color: #A9A6D3;
+  margin: 0;
+  padding: 0;
+}
+.img-col-6 {
+  text-align: end;
+}
+li {
+  list-style: none;
+}
+.icon {
+  size: 40px;
+  padding: 0;
+  margin: 0;
+}
+.temp {
+  font-weight: 600;
+  font-size: 45px;
+  color: #272142;
+}
+.value {
+color: red;
 }
 .city {
   font-weight: 700;
