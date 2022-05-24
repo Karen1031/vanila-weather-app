@@ -17,10 +17,10 @@ li {
 
 .units {
   position: relative;
-  top: -34px;
+  top: -32px;
 }
 
-.temp {
+.temperatur {
   font-weight: 600;
   font-size: 50px;
   color: #272142;
