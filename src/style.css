@@ -19,6 +19,13 @@ li {
   position: relative;
   top: -32px;
 }
+.img {
+  display: block;
+padding: 0 auto;
+margin: 0 auto;
+height: 60px;
+width: 60px;
+}
 
 .temperature {
   font-weight: 500;
