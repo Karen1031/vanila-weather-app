@@ -20,9 +20,9 @@ li {
   top: -32px;
 }
 
-.temperatur {
-  font-weight: 600;
-  font-size: 50px;
+.temperature {
+  font-weight: 500;
+  font-size: 40px;
   color: #272142;
   line-height: 2;
 }
