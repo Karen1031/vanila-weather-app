@@ -17,7 +17,9 @@ li {
 
 .units {
   position: relative;
-  top: -32px;
+  top: -34px;
+  font-size: 14px;
+  
 }
 .img {
   display: block;
@@ -29,7 +31,7 @@ width: 60px;
 
 .temperature {
   font-weight: 500;
-  font-size: 40px;
+  font-size: 60px;
   color: #272142;
   line-height: 2;
 }
